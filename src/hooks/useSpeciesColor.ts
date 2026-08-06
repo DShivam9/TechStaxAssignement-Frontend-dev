@@ -30,7 +30,7 @@ export function useSpeciesColor(speciesUrls: string[]): {
         setColor(getSpeciesColor(data.name));
         setIsLoading(false);
       })
-      .catch((err) => {
+      .catch(() => {
         if (controller.signal.aborted) return;
         setColor(getSpeciesColor(null));
         setIsLoading(false);
