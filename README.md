@@ -8,7 +8,7 @@ The focus of this implementation is on core engineering fundamentals: resilient 
 
 ## Screenshots
 
-![Star Wars Character Explorer Directory View](src/assets/hero.png)
+![Star Wars Character Explorer Directory View](./docs/hero.png)
 
 ## Features
 
