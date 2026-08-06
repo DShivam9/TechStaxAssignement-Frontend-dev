@@ -6,6 +6,10 @@ The application allows users to browse paginated character cards, search charact
 
 The focus of this implementation is on core engineering fundamentals: resilient API caching, request cancellation, accessibility compliance, clean component architecture, and consistent design token usage without relying on third-party UI libraries.
 
+# Star Wars Character Explorer
+
+> 🔗 **Live Demo:** [StarwarsApp](https://tech-stax-assignement-frontend-dev.vercel.app/)
+
 ## Screenshots
 
 ![Star Wars Character Explorer Directory View](./docs/hero.png)
